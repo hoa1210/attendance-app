@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "Sửa lỗi không lấy được User-Agent và tối ưu giao diện.",
+  "pub_date": "2024-05-20T10:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "Nội dung trong file .msi.zip.sig bạn nhận được khi build",
+      "url": "https://github.com/user/repo/releases/download/v0.1.1/app.msi.zip"
+    }
+  }
+}
