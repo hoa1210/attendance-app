@@ -6,6 +6,10 @@
     "windows-x86_64": {
       "signature": "Nội dung trong file .msi.zip.sig bạn nhận được khi build",
       "url": "https://github.com/hoa1210/attendance-app/releases/download/v0.1.1/attendanceor_0.1.0_x64_en-US.msi.zip"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWXhCT0oyWnQweFFMdjNQTEhpc2tBWkVHaTNLMHNCNmhlZnlRbm9KZlh2VXhwQkZ1STZGalVHNzFJelhEWHV6ajdkQmM0bkxGRFJlTk9uZkJ6a1JDempUUFVyc29JV3dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3ODQ1ODY2CWZpbGU6YXR0ZW5kYW5jZW9yXzAuMS4wX2FtZDY0LkFwcEltYWdlLnRhci5negp3WEVGWW1lNHp2OUdrSFlyNSs2TTd0R2E4SEppb1puRDRCNWV6RlR6cGVMV3JoM1RHWnFocTVqRGpuejVVRjlBRlVQWURiUkRhdjMwS0Fla0dXbmNBQT09Cg==",
+      "url": "https://github.com/hoa1210/attendance-app/releases/download/v0.1.2/attendanceor_0.1.0_amd64.AppImage.tar.gz"
     }
   }
 }
